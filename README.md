@@ -19,8 +19,8 @@ Add to the existing Activity class so that it supports the following functionali
 
 * An Activity has a name, such as 'hiking'  
 * An Activity has participants
-  * participants are represented with a hash and have a name and an amount they've paid for that activity  
 * You can add participants to an Activity
+  * participants are represented with a hash and have a name and an amount they've paid for that activity  
 * You can evaluate the total cost of an activity   
 
 ### Iteration 2: Activity Calculations
